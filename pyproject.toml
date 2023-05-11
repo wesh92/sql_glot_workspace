@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "sql-glot-workspace"
+version = "0.1.0"
+description = "SQLGlot with a GUI"
+authors = ["Wes Hahn <52631646+wesh92@users.noreply.github.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "sql_glot_workspace"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+streamlit = "^1.22.0"
+sqlglot = "^12.2.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
