@@ -871,14 +871,13 @@ files = [
 
 [[package]]
 name = "sqlglot"
-version = "12.2.1"
+version = "12.3.0"
 description = "An easily customizable SQL parser and transpiler"
 category = "main"
 optional = false
 python-versions = "*"
 files = [
-    {file = "sqlglot-12.2.1-py3-none-any.whl", hash = "sha256:e6ab521311b9f6424446e50e7a8e69fcfb4503f75b54e37c2da8cc22aa4253ed"},
-    {file = "sqlglot-12.2.1.tar.gz", hash = "sha256:302e38f7b1eb9629e0348d419d76c144dc82eeb23aca80e88c7f38939410fbc0"},
+    {file = "sqlglot-12.3.0-py3-none-any.whl", hash = "sha256:79befafb1ce8c6141e3582d2894b8e7a533a4b30ca8d62e529880360ac2036ab"},
 ]
 
 [package.extras]
