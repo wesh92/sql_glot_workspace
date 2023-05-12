@@ -5,7 +5,6 @@ description = "SQLGlot with a GUI"
 authors = ["Wes Hahn <52631646+wesh92@users.noreply.github.com>"]
 license = "MIT"
 readme = "README.md"
-packages = [{include = "sql_glot_workspace"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
